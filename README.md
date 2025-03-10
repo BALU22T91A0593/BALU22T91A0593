@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! <br>My name is BALU and I'm a STUDENT from GIET engineering college</h2>
+<h2 align="center">Hi ! <br>My name is BALU... and I'm a Java Fullstack Trainee.., from... Rajahmundry. I'm a passionate web developer with enhance knowledge in front-end,backend and database. I'm specialize in creating responsive and visually appealing web applications using HTML, CSS, JavaScript and React</h2>
 
 ###
 
